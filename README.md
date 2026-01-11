@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?KeitaSasaki0708=yukimura-manase&theme=tokyonight&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yukimura-manase&theme=tokyonight&column=7" />
 </p>
 
 ## 👨‍💻 About Me
