@@ -22,9 +22,6 @@
 
 ## DB and Dev Tools etc
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,aws,azure,figma,nginx" height="40" />
-<img src="https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge" height="40" />
-<img src="https://img.shields.io/badge/TablePlus-2C3E50?style=for-the-badge" height="40" />
-<img src="https://img.shields.io/badge/DBngin-4169E1?style=for-the-badge" height="40" />
 
 ## AI & Editors
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
