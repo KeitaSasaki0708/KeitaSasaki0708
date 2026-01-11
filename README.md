@@ -7,14 +7,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yukimura-manase&theme=tokyonight&column=7" />
 </p> -->
 
-![snake gif](https://raw.githubusercontent.com/KeitaSasaki0708/KeitaSasaki0708/output/github-contribution-grid-snake.svg)
-
 ## 👨‍💻 About Me
 
 - 🇯🇵 System Engineer / Full-stack Web Developer from Japan  
 - 🚀 Specializing in **Business Automation, DX Systems, and SaaS Development**
 - 🧠 Focused on **Laravel, API Integration, Workflow Automation**
 - 🏗 Building scalable platforms for healthcare, education, and enterprise
+
+![snake gif](https://raw.githubusercontent.com/KeitaSasaki0708/KeitaSasaki0708/output/github-contribution-grid-snake.svg)
 
 ## Programming Languages 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
