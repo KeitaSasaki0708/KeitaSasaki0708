@@ -18,7 +18,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
 
 ## Frameworks and Library 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,tailwind" /> <br /><br /> 
+<img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,nuxt,nodejs,express,flask,fastapi,laravel" /> <br /><br /> 
 
 ## DB and Dev Tools etc 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+
+<img src="https://skillicons.dev/icons?i=copilot" height="40" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="40" />
