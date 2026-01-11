@@ -1,8 +1,7 @@
 # About Me
 
-1. I'm a web frontend and backend developer from Japan
-
-2. My favorites are PHP, React, TypeScript, ShellScript
+I'm a system engineer and full-stack web application developer from Japan, specializing in building scalable business systems and automation platforms.
+My favorites are Laravel, PHP, MySQL, Tailwind CSS, Vite, API Integration, and system automation.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KeitaSasaki0708&show_icons=true&locale=en&layout=compact)
 
