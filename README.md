@@ -23,6 +23,7 @@
 ## DB and Dev Tools etc 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=copilot" height="40" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="40" />
+## AI & Editors
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
