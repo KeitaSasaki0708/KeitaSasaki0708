@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Laravel+Engineer;Business+Automation+Developer;API+Integration+Specialist" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yukimura-manase&theme=tokyonight&column=7" />
-</p>
+</p> -->
 
 ## 👨‍💻 About Me
 
