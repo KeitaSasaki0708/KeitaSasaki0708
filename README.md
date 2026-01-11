@@ -7,6 +7,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yukimura-manase&theme=tokyonight&column=7" />
 </p> -->
 
+![snake gif](https://raw.githubusercontent.com/KeitaSasaki0708/KeitaSasaki0708/output/github-contribution-grid-snake.svg)
+
 ## 👨‍💻 About Me
 
 - 🇯🇵 System Engineer / Full-stack Web Developer from Japan  
