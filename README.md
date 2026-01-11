@@ -1,7 +1,8 @@
 # About Me
 
 1. I'm a web frontend and backend developer from Japan
-2. My favorites are React, TypeScript, LangChain,ShellScript
+
+2. My favorites are PHP, React, TypeScript, ShellScript
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KeitaSasaki0708&show_icons=true&locale=en&layout=compact)
 
