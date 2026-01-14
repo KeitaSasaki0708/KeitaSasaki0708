@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,nuxt,nodejs,express,flask,fastapi,laravel" /> <br /><br /> 
 
 ## DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,aws,azure,figma,nginx" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,aws,azure,figma,nginx,lua,vim,neovim" height="40" />
 
 ## AI & Editors
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
