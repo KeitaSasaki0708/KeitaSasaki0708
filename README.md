@@ -26,6 +26,5 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,aws,azure,figma,nginx,lua,vim,neovim" height="40" />
 
 ## AI & Editors
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" />
